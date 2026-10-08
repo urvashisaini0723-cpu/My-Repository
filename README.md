@@ -120,7 +120,7 @@ https://burger-rush-1.ai.studio
 
 💼 **LinkedIn:** https://www.linkedin.com/in/urvashi-saini-241798375/
 
-🐙 **GitHub:** [Urvashi Saini](https://github.com/urvashisaini0723)
+🐙 **GitHub:** https://github.com/urvashisaini0723-cpu
 
 ---
 
