@@ -29,7 +29,67 @@ strong interest in programming and software development.
 
 ---
 
-## 🛠️ Technical Skills
+## 📚 Professional Qualifications
+
+<table>
+<tr>
+<th>🎓 Training / Qualification</th>
+<th>🏢 Organization</th>
+<th>📚 Skills & Learning</th>
+</tr>
+
+<tr>
+<td>
+<b>💻 C & C++ Training Program</b>
+</td>
+
+<td>
+<b>HARTRON Skill Center, Panchkula</b>
+</td>
+
+<td>
+C, C++, Object-Oriented Programming,<br>
+File Handling, Data Structures,<br>
+Logical & Problem-Solving Skills
+</td>
+</tr>
+
+<tr>
+<td>
+<b>🖥️ NIELIT Government Course</b>
+</td>
+
+<td>
+<b>ZED-KING Institute, Kaithal</b>
+</td>
+
+<td>
+Computer Fundamentals, HTML, CSS,<br>
+JavaScript, Python, IoT
+</td>
+</tr>
+
+<tr>
+<td>
+<b>🤖 Digital Marketing With AI</b>
+</td>
+
+<td>
+<b>ZED-KING Institute, Kaithal</b>
+</td>
+
+<td>
+AI-Based Content Creation,<br>
+Audience Targeting, SEO Fundamentals,<br>
+Social Media Marketing, AI Tools
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🛠️ Professional Skills
 
 <table>
 <tr>
@@ -73,84 +133,6 @@ strong interest in programming and software development.
 
 </td>
 </tr>
-</table>
-
----
-
-## 📚 Professional Qualifications
-
-<table>
-<tr>
-<th>🎓 Training / Qualification</th>
-<th>🏢 Organization</th>
-<th>📚 Skills & Learning</th>
-</tr>
-
-<tr>
-<td>
-
-<b>💻 C & C++ Training Program</b>
-
-</td>
-
-<td>
-
-<b>HARTRON Skill Center, Panchkula</b>
-
-</td>
-
-<td>
-
-C, C++, Object-Oriented Programming,  
-File Handling, Data Structures,  
-Logical & Problem-Solving Skills
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<b>🖥️ NIELIT Government Course</b>
-
-</td>
-
-<td>
-
-<b>ZED-KING Institute, Kaithal</b>
-
-</td>
-
-<td>
-
-Computer Fundamentals, HTML, CSS,  
-JavaScript, Python, IoT
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<b>🤖 Digital Marketing With AI</b>
-
-</td>
-
-<td>
-
-<b>ZED-KING Institute, Kaithal</b>
-
-</td>
-
-<td>
-
-AI-Based Content Creation,  
-Audience Targeting, SEO Fundamentals,  
-Social Media Marketing, AI Tools
-
-</td>
-</tr>
-
 </table>
 
 ---
