@@ -1,28 +1,41 @@
 # 👋 Hi, I'm Urvashi Saini
 
-### 💻 Aspiring Software Developer | MCA Student | C & C++ Learner
+### 💻 Aspiring Software Developer
 
-Welcome to my GitHub profile! I'm **Urvashi Saini**, an aspiring software developer and an enthusiastic learner interested in software development and emerging technologies.
-
-I enjoy learning new technologies, building projects, solving problems, and improving my programming skills through practical work.
+📍 Kaithal, Haryana, India  
+🎓 MCA Student | BCA Graduate  
+💡 Passionate about Software Development, Programming & Technology
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Currently pursuing **Master of Computer Application (MCA)** from **Kurukshetra University**
-- 🎓 Completed **Bachelor of Computer Application (BCA)**
-- 💻 Trained in **C and C++**
-- 🧠 Interested in **Software Development, Programming & Problem Solving**
-- 🌱 Always interested in learning new technologies
-- 🤝 Good communication and teamwork skills
-- ⚡ Quick learner and hardworking
+I am an enthusiastic and motivated aspiring software developer with a
+strong interest in programming and software development.
+
+I have hands-on experience and training in **C and C++**, along with
+knowledge of **Object-Oriented Programming, Data Structures, Git and VS Code**.
+
+Currently, I am pursuing my **Master of Computer Applications (MCA)** and
+continuously working on improving my technical and problem-solving skills.
+
+---
+
+## 🎓 Education
+
+### 🎓 Master of Computer Applications (MCA)
+**Kurukshetra University (KUK)**  
+2025 – Present
+
+### 🎓 Bachelor of Computer Applications (BCA)
+**CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal**  
+2022 – 2025
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
 - C
 - C++
 
@@ -31,20 +44,10 @@ I enjoy learning new technologies, building projects, solving problems, and impr
 - Data Structures
 - Problem Solving
 
-### 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript
-
-### 🔧 Other Technologies
-- Python
-- IoT
-- AI Tools
-- Digital Marketing
-
-### 🧰 Tools
+### 🔧 Tools & Technologies
 - Git
-- Visual Studio Code
+- GitHub
+- VS Code
 
 ### 💻 Operating Systems
 - Windows
@@ -52,93 +55,82 @@ I enjoy learning new technologies, building projects, solving problems, and impr
 
 ---
 
-## 🎓 Education
-
-### 🎓 Master of Computer Application (MCA)
-**Kurukshetra University (KUK)**  
-2025 – Present
-
-### 🎓 Bachelor of Computer Application (BCA)
-**CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal**  
-2022 – 2025
-
----
-
-## 📚 Training & Courses
+## 📚 Training & Certifications
 
 ### 💻 C & C++ Training Program
 **HARTRON Skill Center, Panchkula**
 
-- Learned fundamental and advanced concepts of C and C++
+- Learned fundamentals and advanced concepts of C and C++
 - Practiced Object-Oriented Programming
 - Worked with file handling
 - Implemented data structures
-- Improved problem-solving and logical thinking
+- Improved logical and problem-solving skills
 
 ### 🖥️ NIELIT Government Course
 **ZED-KING Institute, Kaithal**
 
 - Computer fundamentals
-- HTML, CSS and JavaScript basics
-- Python basics
-- Introduction to IoT
+- HTML
+- CSS
+- JavaScript
+- Python
+- IoT
 
 ### 🤖 Digital Marketing With AI
 **ZED-KING Institute, Kaithal**
 
-- AI tools for digital marketing
-- Content creation using AI tools
+- AI-based content creation
 - Audience targeting
 - SEO fundamentals
-- Social media marketing fundamentals
+- Social media marketing
+- AI tools for digital marketing
 
 ---
 
 ## 🚀 Projects
 
-### 🍔 Burger Rush
+### 🍔 Burger Rush — Web-Based Game
 
-**Web-Based Game**
+An interactive browser-based game developed with a responsive
+and engaging user interface.
 
-An interactive browser-based game featuring engaging gameplay and a responsive user interface.
-
-🔗 **Project:** `burger-rush-1.ai.studio`
-
----
-
-## 💡 Strengths
-
-- 🧠 Strong problem-solving skills
-- ⚡ Quick learner
-- 💬 Good communication
-- 🤝 Teamwork
-- 🔍 Attention to detail
-- 💪 Hardworking and reliable
+🔗 **Live Project:**  
+https://burger-rush-1.ai.studio
 
 ---
 
-## 🎯 Career Goal
+## 💪 Strengths
 
-I am looking for opportunities where I can apply my programming knowledge, gain real-world development experience, work on meaningful projects, and continue growing as a software developer.
-
----
-
-## 📈 Currently Learning
-
-I am continuously improving my technical skills by working on projects, practicing programming, and exploring new technologies.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to learning, collaborating, and connecting with people from the technology and software development community.
-
-📧 **Email:** [urvashisaini0723@gmail.com](mailto:urvashisaini0723@gmail.com)
-
-🔗 **LinkedIn:** Urvashi Saini
+- 🔹 Strong Problem-Solving Skills
+- 🔹 Quick Learner
+- 🔹 Good Communication
+- 🔹 Teamwork
+- 🔹 Attention to Detail
+- 🔹 Hardworking & Reliable
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+## 🌱 Currently Learning
 
-✨ *Keep Learning • Keep Building • Keep Growing*
+- Advanced C++
+- Data Structures & Algorithms
+- Software Development
+- Web Technologies
+- New and Emerging Technologies
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** urvashisaini0723@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/urvashi-saini-241798375/
+
+🐙 **GitHub:** [Urvashi Saini](https://github.com/urvashisaini0723)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to ⭐ my repositories
+and connect with me.
