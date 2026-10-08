@@ -13,12 +13,6 @@
 I am an enthusiastic and motivated aspiring software developer with a
 strong interest in programming and software development.
 
-I have hands-on experience and training in **C and C++**, along with
-knowledge of **Object-Oriented Programming, Data Structures, Git and VS Code**.
-
-Currently, I am pursuing my **Master of Computer Applications (MCA)** and
-continuously working on improving my technical and problem-solving skills.
-
 ---
 
 ## 🎓 Education
