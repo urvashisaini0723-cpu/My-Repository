@@ -15,7 +15,7 @@ strong interest in programming and software development.
 
 ---
 
-## 🎓 Education
+## 🎓 Academic Qualifications
 
 ### 🎓 Master of Computer Applications (MCA)
 
@@ -77,11 +77,11 @@ strong interest in programming and software development.
 
 ---
 
-## 📚 Training & Certifications
+## 📚 Professional Qualifications
 
 <table>
 <tr>
-<th>🎓 Training / Certification</th>
+<th>🎓 Training / Qualification</th>
 <th>🏢 Organization</th>
 <th>📚 Skills & Learning</th>
 </tr>
