@@ -18,10 +18,12 @@ strong interest in programming and software development.
 ## 🎓 Education
 
 ### 🎓 Master of Computer Applications (MCA)
+
 **Kurukshetra University (KUK)**  
 2025 – Present
 
 ### 🎓 Bachelor of Computer Applications (BCA)
+
 **CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal**  
 2022 – 2025
 
@@ -29,55 +31,127 @@ strong interest in programming and software development.
 
 ## 🛠️ Technical Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 👨‍💻 Programming Languages
+
 - C
 - C++
 
+</td>
+
+<td width="50%" valign="top">
+
 ### 🧠 Core Concepts
+
 - Object-Oriented Programming (OOP)
 - Data Structures
 - Problem Solving
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🔧 Tools & Technologies
+
 - Git
 - GitHub
 - VS Code
 
+</td>
+
+<td width="50%" valign="top">
+
 ### 💻 Operating Systems
+
 - Windows
 - Linux
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Training & Certifications
 
-### 💻 C & C++ Training Program
-**HARTRON Skill Center, Panchkula**
+<table>
+<tr>
+<th>🎓 Training / Certification</th>
+<th>🏢 Organization</th>
+<th>📚 Skills & Learning</th>
+</tr>
 
-- Learned fundamentals and advanced concepts of C and C++
-- Practiced Object-Oriented Programming
-- Worked with file handling
-- Implemented data structures
-- Improved logical and problem-solving skills
+<tr>
+<td>
 
-### 🖥️ NIELIT Government Course
-**ZED-KING Institute, Kaithal**
+<b>💻 C & C++ Training Program</b>
 
-- Computer fundamentals
-- HTML
-- CSS
-- JavaScript
-- Python
-- IoT
+</td>
 
-### 🤖 Digital Marketing With AI
-**ZED-KING Institute, Kaithal**
+<td>
 
-- AI-based content creation
-- Audience targeting
-- SEO fundamentals
-- Social media marketing
-- AI tools for digital marketing
+<b>HARTRON Skill Center, Panchkula</b>
+
+</td>
+
+<td>
+
+C, C++, Object-Oriented Programming,  
+File Handling, Data Structures,  
+Logical & Problem-Solving Skills
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>🖥️ NIELIT Government Course</b>
+
+</td>
+
+<td>
+
+<b>ZED-KING Institute, Kaithal</b>
+
+</td>
+
+<td>
+
+Computer Fundamentals, HTML, CSS,  
+JavaScript, Python, IoT
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>🤖 Digital Marketing With AI</b>
+
+</td>
+
+<td>
+
+<b>ZED-KING Institute, Kaithal</b>
+
+</td>
+
+<td>
+
+AI-Based Content Creation,  
+Audience Targeting, SEO Fundamentals,  
+Social Media Marketing, AI Tools
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -93,34 +167,15 @@ https://burger-rush-1.ai.studio
 
 ---
 
-## 💪 Strengths
-
-- 🔹 Strong Problem-Solving Skills
-- 🔹 Quick Learner
-- 🔹 Good Communication
-- 🔹 Teamwork
-- 🔹 Attention to Detail
-- 🔹 Hardworking & Reliable
-
----
-
-## 🌱 Currently Learning
-
-- Advanced C++
-- Data Structures & Algorithms
-- Software Development
-- Web Technologies
-- New and Emerging Technologies
-
----
-
 ## 🤝 Connect With Me
 
 📧 **Email:** urvashisaini0723@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/urvashi-saini-241798375/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/urvashi-saini-241798375/
 
-🐙 **GitHub:** https://github.com/urvashisaini0723-cpu
+🐙 **GitHub:**  
+https://github.com/urvashisaini0723-cpu
 
 ---
 
