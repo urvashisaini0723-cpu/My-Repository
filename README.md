@@ -7,6 +7,17 @@
 💡 Passionate about Software Development, Programming & Technology
 
 ---
+## 🤝 Connect With Me
+
+📧 **Email:** urvashisaini0723@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/urvashi-saini-241798375/
+
+🐙 **GitHub:**  
+https://github.com/urvashisaini0723-cpu
+
+---
 
 ## 👩‍💻 About Me
 
@@ -146,18 +157,6 @@ and engaging user interface.
 
 🔗 **Live Project:**  
 https://burger-rush-1.ai.studio
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** urvashisaini0723@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/urvashi-saini-241798375/
-
-🐙 **GitHub:**  
-https://github.com/urvashisaini0723-cpu
 
 ---
 
