@@ -1,10 +1,10 @@
-                                                # 👋 Hi, I'm Urvashi Saini
+# 👋 Hi, I'm Urvashi Saini
 
-                                                ### 💻 Aspiring Software Developer
+### 💻 Aspiring Software Developer
 
-                                                   📍 Kaithal, Haryana, India  
-                                                   🎓 MCA Student | BCA Graduate  
-                                     💡 Passionate about Software Development, Programming & Technology
+📍 Kaithal, Haryana, India  
+🎓 MCA Student | BCA Graduate  
+💡 Passionate about Software Development, Programming & Technology
 
 ---
 ## 🤝 Connect With Me
